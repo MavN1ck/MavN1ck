@@ -1,6 +1,6 @@
 
-<blockquote style="background-color:black;">
-  <div>  
+<blockquote>
+  <div style="background-color:rgba(0, 0, 0, 0.0470588);">  
       <img align="Left" src="https://readme-typing-svg.herokuapp.com?color=%2307F734&size=22&lines=Hello+" style="display: inline">
       <h3 align="right" style="display: inline">ETHICAL HACKER</h3>
       <h3  align="right">PYTHON DEVELOPER</h3>
