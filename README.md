@@ -1,9 +1,11 @@
 
 <blockquote style="background-color:white;">
-<img align="Left" src="https://readme-typing-svg.herokuapp.com?color=%2307F734&size=22&lines=Hello+" style="display: inline">
-<h3 align="right" style="display: inline">ETHICAL HACKER</h3>
-<h3  align="right">PYTHON DEVELOPER</h3>
-<h3  align="right">DREAMER</h3>
+  <div>  
+      <img align="Left" src="https://readme-typing-svg.herokuapp.com?color=%2307F734&size=22&lines=Hello+" style="display: inline">
+      <h3 align="right" style="display: inline">ETHICAL HACKER</h3>
+      <h3  align="right">PYTHON DEVELOPER</h3>
+      <h3  align="right">DREAMER</h3>
+  </div>
 </blockquote>
   
   <!--
