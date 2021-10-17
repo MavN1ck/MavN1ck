@@ -1,4 +1,7 @@
-<img src="./header.svg">
+<blockquote>
+<img src="https://readme-typing-svg.herokuapp.com?color=%230EF713&size=22&multiline=true&height=60&lines=Hello+There+%F0%9F%91%8B;+Welcome+to+MavN1ck's+Github">
+</blockquote>  
+  
   <!--
 **nslearn/nslearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
