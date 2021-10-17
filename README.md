@@ -28,7 +28,7 @@ When I am not Coding you can find me playing or watching football or Videos Game
 <h1 align="center"><code>Hello 👋</code></h1>
 
 <p align="center">
-  <a href="https://twitter.com/MavN1ck"><img src="https://img.shields.io/badge/-@Mavn1ck-00acee?style=flat&logo=Twitter&logoColor=white"></a>
+  <a href="https://twitter.com/MavN1ck"><img src="https://img.shields.io/badge/-@Mavn1ck-00acee?style=social&logo=Twitter&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/17172481/nikhil-sharma"><img src="https://img.shields.io/badge/MavN1ck?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://profile.codersrank.io/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
   <a href="https://github.com/Lissy93"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
