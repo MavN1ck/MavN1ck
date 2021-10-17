@@ -1,12 +1,8 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-<blockquote>
-  <div style="background-color:black;">  
+<svg width="100" height="100">
+     <div style="background-color:black;">  
       <img align="Left" src="https://readme-typing-svg.herokuapp.com?color=%2307F734&size=22&lines=Hello+" style="display: inline">
-      <p align="right" style="display: inline" style="font-size:22px">ETHICAL HACKER</p>
-      <p align="right" style="font-size:22px">PYTHON DEVELOPER</p>
-      <p align="right" style="font-size:22px">DREAMER</p>
-  </div>
-</blockquote>
-  </foreignObject>
-    </svg>
+      <p align="right" style="display: inline" style="font-size:22px color:white font:Helvetica">ETHICAL HACKER</p>
+      <p align="right" style="font-size:22px color:white font:Helvetica">PYTHON DEVELOPER</p>
+      <p align="right" style="font-size:22px color:white font:Helvetica">DREAMER</p>
+	      </div>
+	     </svg>
