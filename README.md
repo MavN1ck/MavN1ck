@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F734&center=true&lines=Hello+)](https://git.io/typing-svg)
 <h3 align="right">ETHICAL HACKER</h3>
 <h3  align="right">PYTHON DEVELOPER</h3>
 <h3  align="right">DREAMER</h3>
