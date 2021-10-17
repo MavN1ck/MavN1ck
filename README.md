@@ -1,10 +1,10 @@
 
-<span style="background-color:white;">
+<blockquote style="background-color:white;">
 <img align="Left" src="https://readme-typing-svg.herokuapp.com?color=%2307F734&size=22&lines=Hello+" style="display: inline">
 <h3 align="right" style="display: inline">ETHICAL HACKER</h3>
 <h3  align="right">PYTHON DEVELOPER</h3>
 <h3  align="right">DREAMER</h3>
-</span>
+</blockquote>
   
   <!--
 **nslearn/nslearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
